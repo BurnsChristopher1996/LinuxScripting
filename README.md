@@ -8,3 +8,5 @@ Scripts are intended to be executed in the order of:
 - file_manipulation.sh
 - file_permissions.sh
 - file_removal.sh
+
+The call_scripts.sh file can be used to call each script in the correct order.
